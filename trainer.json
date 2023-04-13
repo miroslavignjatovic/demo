@@ -1,0 +1,11 @@
+{
+    "trainer": {
+      "name": "Miroslav Ignjatovic",
+      "age": 46,
+      "courses": ["JavaScript", "Python", "HTML/CSS"],
+      "contact": {
+        "email": "miroslav.ignjatovic@gmail.com",
+        "phone": "+38163569055"
+      }
+    }
+  }
